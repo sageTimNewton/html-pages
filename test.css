@@ -1,3 +1,5 @@
-[^c8]{display:none}
-[^c9]{display:none}
-[^c13]{display:none}
+.ot-preference-header
+{
+display:none;
+}
+
