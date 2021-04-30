@@ -18,7 +18,7 @@ display:none;
 display:none;
 }
 
-#cec53b24-e924-417d-9366-bd226e7980a7::before
+label:has(> #cec53b24-e924-417d-9366-bd226e7980a7)
 {
 display:none; 
 }
